@@ -1,9 +1,10 @@
 # Mask R-CNN for Person detection
 
-Original Repository: https://github.com/matterport/Mask_RCNN 
+Original Repository: https://github.com/matterport/Mask_RCNN.
 
 Changes in mrcnn/visualize.py.
-New Demo for person detection: samples/demo_person.ipynb
+
+New Demo for person detection: samples/demo_person.ipynb.
 
 
 # Mask R-CNN for Object Detection and Segmentation
